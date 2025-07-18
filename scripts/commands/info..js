@@ -29,11 +29,11 @@ var link = ["https://i.imgur.com/s26sDI4.jpeg",
             
             "https://i.imgur.com/AUjd9Hw.jpeg", 
             
-          “https://i.imgur.com/8ttOnxr.jpeg”.
+          "https://i.imgur.com/8ttOnxr.jpeg”.
 
  "https://i.imgur.com/doFKLvQ.jpeg",
             
-     “https://i.imgur.com/Scq5Snu.jpeg"];
+     "https://i.imgur.com/Scq5Snu.jpeg"];
   
 var callback = () => api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
 
