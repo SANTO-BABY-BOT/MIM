@@ -25,15 +25,15 @@ const time = process.uptime(),
 		seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.imgur.com/s26sDI4.jpeg", 
+var link = ["https://i.postimg.cc/rwkPdFVr/20250508-073525.jpg", 
             
-            "https://i.imgur.com/AUjd9Hw.jpeg", 
+            "https://i.postimg.cc/gJFdrbTt/Messenger-creation-20-CF0230-998-B-4550-8-F8-D-215-C6-FBE36-A9.jpg", 
             
-          "https://i.imgur.com/8ttOnxr.jpeg”.
+            "https://i.postimg.cc/vm1HczHT/IMG20250331132445.jpg",
 
- "https://i.imgur.com/doFKLvQ.jpeg",
+"https://i.postimg.cc/Pr8LRdkN/IMG20250430172943.jpg",
             
-     "https://i.imgur.com/Scq5Snu.jpeg"];
+            "https://i.postimg.cc/ncVR4w8d/IMG20250508083200.jpg"];
   
 var callback = () => api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
 
@@ -67,7 +67,7 @@ _____________🅲🅾🅽🆃🅰🅲🆃_____________
 
 💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)💥 : https://www.facebook.com/profile.php?id=61550529403710
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)💥 : https://www.facebook.com/share/1Fvvdspem8/
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)💥 : https://www.facebook.com/share/16tbfLvHQk/
 
 ✴️𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗✴️ : ${global.config.PREFIX}
 
