@@ -17,16 +17,16 @@
 };
 "module.exports.run = async function({ api,event,args,client,Users,Threads,__GLOBAL,Currencies }) {
 "'const axios = global.nodemodule["'axios'"];
-"const request = global.nodemodule["'request'"];
-"'const fs = global.nodemodule["'fs-extra"];
+"const' request = global.nodemodule["'request'"];
+"'const' fs = global.nodemodule["'fs-extra"];
 "'const time = process.uptime(),
-  'hours = Math.floor(time / (60 * 60)),
+  "'hours = 'Math.floor(time / (60 * 60)),
   'minutes = "Math.floor((time % (60 * 60)) / 60),
   'seconds = "Math.floor(time % 60);
 'const moment = require("moment-timezone");
 "'var juswa = moment.tz("'Asia/Dhaka'").format("'『D/MM/YYYY』 【hh:mm:ss】");
 
-"'var callback = () => api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
+"'var callback' = () => api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
 
 '╔════•|      ✿      |•════╗'
 '💐আ্ঁস্ঁসা্ঁলা্ঁমু্ঁ💚আ্ঁলা্ঁই্ঁকু্ঁম্ঁ💐'
