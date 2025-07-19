@@ -25,8 +25,7 @@
   'seconds = "Math.floor(time % 60);
 'const moment = require("moment-timezone");
 "'var juswa' = moment.tz("'Asia/Dhaka'").format("'『D/MM/YYYY』 【hh:mm:ss】");
-
-'var callback' = () =>' api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
+"var callback' = () =>' api.sendMessage({body:`🌺🍒🐰❀𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍💝🐰🍒 
 
 '╔════•|      ✿      |•════╗'
 '💐আ্ঁস্ঁসা্ঁলা্ঁমু্ঁ💚আ্ঁলা্ঁই্ঁকু্ঁম্ঁ💐'
