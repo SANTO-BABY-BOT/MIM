@@ -24,7 +24,7 @@
 
 };
 
-'const nam = {[
+"const nam = {[
 
     'timer: '12:00:00 'AM',
 
